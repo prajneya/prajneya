@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **WebDev, Linguistics, ML**
 
-- 📫 How to reach me **prajneya.kumar@research.iiit.ac.in**
+- 📫 Reach me at **prajneya.kumar@research.iiit.ac.in**
 
 - ⚡ Fun fact **Hell hath no fury like me when I am slightly inconvenienced and/or hungry**
 
