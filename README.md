@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Language and Cognition**
 
-- 💬 Ask me about **WebDev, Linguistics, ML**
+- 💬 Ask me about **WebDev, Linguistics, ML.**
 
 - 📫 Reach me at **prajneya.kumar@research.iiit.ac.in**
 
